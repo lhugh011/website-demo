@@ -4,6 +4,7 @@ import os
 import sys
 
 
+# This is a comment to test if git will display a modification message.
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'my_site.settings')
